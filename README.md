@@ -17,4 +17,4 @@ over a current problem to enhance company perfomance. So, we need to answer this
 - **How do these factors interact with each other to shape customer behavior** and usage preferences regarding
   bike rental services, and **what actions should the company take based on these insights?**
 
-**Link Deck Presentation:** [Link](https://drive.google.com/file/d/1g5qBmtkOpFDyw13bqddXzgOe_kcRP_F5/view?usp=drive_link)
+**Link Deck Presentation:** [Link](https://drive.google.com/file/d/1lV7zi2sNzPGAEh6G_sAeLIP1vt4TyuiL/view?usp=sharing)
